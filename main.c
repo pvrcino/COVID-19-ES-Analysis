@@ -10,6 +10,7 @@ Autores: Arthur Purcino e Yuri Aikau
 #include <ctype.h>
 #include <math.h>
 
+
 #define TAM 35
 #define CASOS 202362
 
