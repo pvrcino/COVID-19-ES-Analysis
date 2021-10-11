@@ -43,6 +43,7 @@ typedef struct{
   char comorbidadeTabagismo[TAM];
   char comorbidadeObesidade[TAM];
   char ficouInternado[TAM];
+  
 } tInfo;
 
 //Vetor principal que servira para armazenar todas as informacoes de casos de covid19 no ES
